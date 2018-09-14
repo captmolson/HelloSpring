@@ -55,16 +55,16 @@ hs_err_pid*
 # .idea/*.iml
 # .idea/modules
 
-# CMake
+#CMake
 cmake-build-*/
 
-# Mongo Explorer plugin
+#Mongo Explorer plugin
 .idea/**/mongoSettings.xml
 
-# File-based project format
+#File-based project format
 *.iws
 
-# IntelliJ
+#IntelliJ
 out/
 *.iml
 .idea/vcs.xml
